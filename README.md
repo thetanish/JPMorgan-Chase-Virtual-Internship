@@ -8,8 +8,8 @@ This repository contains the submitted patch files of the various tasks assigned
 
 ## My Certificate of Completion 
 
-![](https://github.com/chandrikadeb7/JPMorgan-Chase-Virtual-Internship/blob/master/Screen%20Shot%202020-05-11%20at%2012.41.54%20PM.png)
+
 
 ## For any queries/doubts:
 
-:envelope: chandrikadeb7@gmail.com :thumbsup:
+:envelope: tanishkumar@berkeley.edu :thumbsup:
